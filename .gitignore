@@ -1,0 +1,4 @@
+./soc-website
+./intrusion-detection/dataset/kddcup.data.corrected
+./intrusion-detection/dataset/kddcup.testdata.unlabeled
+
